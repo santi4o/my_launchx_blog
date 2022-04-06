@@ -8,6 +8,7 @@ Hola ✌️  soy el explorer Aldo y este es mi blog personal donde compartiré m
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Mis expectativas para este proyecto son:
+
 - Conectar con mis compañeros y mission commander
 - Aportar al aprendizaje de todos
 - Entender mejor JavaScript
@@ -15,6 +16,7 @@ Mis expectativas para este proyecto son:
 - Aprender patrones de diseño
 - Desarrollar mis habilidades con NodeJS
 - Desarrollar mis habilidades en backend
+- Desarrollar otras habilidades no técnicas y llevarme lo mejor de mis compañeros y mission commander
 - Pasarla bien y disfrutar del aprendizaje y prácticas
 
 🚀
