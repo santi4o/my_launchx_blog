@@ -9,13 +9,11 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
-
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
+- Soy estudiante de ingeniería en sistemas computacionales en el IPN
+- He trabajado en digital marketing y ciberseguridad
+- Me quiero especializar en desarrollo de microservicios y cloud
+- Tengo dos gatitos: Ari y Bisquet
+- Me gusta el cine, entre mis películas favoritas están "Mommy" y "Her"
+- Lo que más escucho es indie, rock y pop
+- Me gustan los videojuegos, entre mis favoritos está Crash Bandicoot que desde pequeño lo jugaba, me gustan los juegos de mesa
+- Me gustan los taquitos al pastor, los champiñones, queso, vino, pimientos morrones
